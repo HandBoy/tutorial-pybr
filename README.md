@@ -1,0 +1,2 @@
+- https://github.com/luizalabs/tutorial-python-brasil/blob/main/projeto.md
+- https://github.com/cassiobotaro/do_zero_a_implantacao
